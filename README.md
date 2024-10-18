@@ -5,17 +5,17 @@ Desarrollador fullstack con experiencia en diversas tecnologías del lado del se
 
 - 🌍 **Ubicación:** Republica Dominicana
 - 💻 **Soy Fullstack en las siguientes tecnologías:**
-    - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) con ![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=laravel): 90%
-    - Flutter: 80%
-    - JavaScript: 70%
-    - CSS: 50%
-    - HTML: 70%
-    - Angular: 30%
-    - Vue.js: 40%
-    - Java: 50%
-    - C#: 30%
-    - MySQL: 80%
-    - SQL Server: 50%
+    - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) y ![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=laravel) : 90%
+    - ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=flutter) : 80%
+    - ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) : 70%
+    - ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) : 50%
+    - ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) : 70%
+    - ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) : 30%
+    - V![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js) : 40%
+    - ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java) : 50%
+    - ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp) : 30%
+    - ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) : 80%
+    - ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server) r: 50%
     
 - ✉️ **Contáctame en:** carlosa_feliz@outlook.com
 
