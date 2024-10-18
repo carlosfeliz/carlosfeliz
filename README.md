@@ -5,7 +5,7 @@ Desarrollador fullstack con experiencia en diversas tecnologías del lado del se
 
 - 🌍 **Ubicación:** Republica Dominicana
 - 💻 **Soy Fullstack en las siguientes tecnologías:**
-    - Laravel con Blade: 90%
+    - ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel) con ![Blade](https://img.shields.io/badge/-Blade-333333?style=flat&logo=laravel): 90%
     - Flutter: 80%
     - JavaScript: 70%
     - CSS: 50%
