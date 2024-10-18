@@ -34,8 +34,8 @@ Desarrollador fullstack con experiencia en diversas tecnologías del lado del se
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-333333?style=flat&logo=microsoft-sql-server)
 
 ## 📊 Estadísticas de GitHub
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&hide=php)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosfeliz&layout=compact&hide=php)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlosfeliz&show_icons=true&theme=radical)
 
 ## 📫 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/carlos-alberto-feliz-recio-b1907a20a/)
