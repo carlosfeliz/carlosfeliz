@@ -12,7 +12,9 @@ Desarrollador fullstack con experiencia en diversas tecnologías del lado del se
     - ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) : 70%
     - ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) : 30%
     - ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white) : 40%
-    - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : 50%
+    - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : 70%
+    - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) : 70%
+
     - ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) : 30%
     - ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) : 80%
     - ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) : 50%
