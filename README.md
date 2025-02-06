@@ -6,7 +6,7 @@ Desarrollador fullstack con experiencia en diversas tecnologías del lado del se
 - 🌍 **Ubicación:** República Dominicana
 - 💻 **Soy Fullstack en las siguientes tecnologías:**
     - ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) y ![Blade](https://img.shields.io/badge/Blade-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) : 90%
-    - - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : 70%
+    - ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) : 70%
     - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white) : 70%
     - ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) : 80%
     - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) : 70%
